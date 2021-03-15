@@ -9,5 +9,5 @@ git clone https://github.com/mrvanonmus/Master
 # التسغيل
 ```
 cd Master
-python2 memarv.py
+python2 MASTER.py
 ```
