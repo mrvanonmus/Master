@@ -4,10 +4,10 @@
 ```
 pkg install python2
 pkg install git
-git clone https://github.com/mrvanonmus/memarv
+git clone https://github.com/mrvanonmus/Master
 ```
 # التسغيل
 ```
-cd memarv 
+cd Master
 python2 memarv.py
 ```
